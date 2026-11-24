@@ -8,7 +8,7 @@ A one-line out-of-office auto-reply for the [u-mgwals-out-of-office-the-overwork
 
 ## The line
 
-> I'm on vacation until Monday. My 47,312 unread tickets will wait. For the first time in three years, so will I.
+> I'm on vacation until Monday. My 47,312 unread tickets will wait. For the first time in 3 years, so will I. Please don't email twice.
 
 ## How it works
 
